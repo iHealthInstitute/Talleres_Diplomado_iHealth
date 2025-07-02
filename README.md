@@ -1,16 +1,14 @@
-# Material Diplomado en Inteligencia Artificial Aplicada al Diagnóstico Médico
+# Talleres Diplomado en Inteligencia Artificial Aplicada al Diagnóstico Médico
 
 Carlos Valle ([cgvallea@gmail.com](mailto:cgvallea@gmail.com))
 
 Este repositorio contiene el material para ser utilizado en el diplomado en [Inteligencia Artificial Aplicada al Diagnóstico Médico](https://educacioncontinua.uc.cl/programas/diplomado-en-inteligencia-artificial-aplicada-al-diagnostico-medico/).
 
 # Objetivo
-Introducir a los estudiantes a los conceptos básicos de la inteligencia artificial y su aplicación en el diagnóstico médico. Se entregarán ejemplos en formato de Jupyter Notebooks (Google Colab) en el lenguaje de programación Python que permitirán a los estudiantes entender los conceptos y aplicarlos en problemas reales.
-
+Introducir a los estudiantes a los conceptos escenciales de la inteligencia artificial y su aplicación en el diagnóstico médico. Se entregarán talleres en formato de Jupyter Notebooks (Google Colab) en el lenguaje de programación Python que permitirán a los estudiantes entender los conceptos y aplicarlos en problemas reales.
 
 
 # Formato General del Diplomado
-
 El diplomado está compuesto por **4 cursos**, organizados de la siguiente manera:
 
 #### **Cursos**
@@ -19,7 +17,12 @@ El diplomado está compuesto por **4 cursos**, organizados de la siguiente maner
 3. **Introducción a IA para el diagnóstico y pronóstico médico**  
 4. **Deep Learning y aplicaciones reales de IA en medicina**
 
-
+#### **Temas principales**
+En cada curso se abordarán los siguientes temas:  
+1. **Monitoreo fisiológico**: Electrocardiograma (ECG).  
+2. **Datos epidemiológicos**: Análisis de supervivencia.  
+3. **Imágenes médicas**: Rayos X de tórax y reportes radiológicos.  
+4. **Datos demográficos**: Procesamiento y análisis.
 
 #### **Metodología**
 Cada curso incluirá ejemplos prácticos basados en los temas descritos anteriormente. Además, se proporcionarán ejercicios para que los estudiantes apliquen los conceptos aprendidos de manera práctica. Adicionalmente, se incluye un curso introductorio a Python para aquellos estudiantes que no tengan experiencia previa en programación.
@@ -29,16 +32,47 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 # Tabla de ejercicios
 
+### Curso 1: Fundamentos computacionales para IA en medicina
 
-| **Tema**                                      | **Curso 1: Fundamentos computacionales para IA en medicina** | **Curso 2: Análisis exploratorio y visualización de datos en medicina** | **Curso 3: Introducción a IA para el diagnóstico y pronóstico médico** | **Curso 4: Deep Learning y aplicaciones reales de IA en medicina** |
-|-----------------------------------------------|----------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------|
-| **Monitoreo fisiológico: Electrocardiograma (ECG)** |                                           |                                                                |                                                                |                                                         |
-| **Datos epidemiológicos: Análisis de supervivencia** |                                                                |                                                               |                                                          |
-| **Imágenes médicas: Rayos X y reportes radiológicos** |                                                            |                                                                |                                                               |                                                         |
-| **Datos demográficos: Procesamiento y análisis**     |                                                |                                                               |                                                                |                                                          |
+| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Monitoreo fisiológico: Electrocardiograma (ECG) |                         |
+| Datos epidemiológicos: Análisis de supervivencia |                      |
+| Imágenes médicas: Rayos X y reportes radiológicos |                     |
+| Datos demográficos: Procesamiento y análisis     |      |
 
+---
 
+### Curso 2: Análisis exploratorio y visualización de datos en medicina
 
+| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Monitoreo fisiológico: Electrocardiograma (ECG) |                            |                            |
+| Datos epidemiológicos: Análisis de supervivencia |                            |                            |
+| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
+| Datos demográficos: Procesamiento y análisis     |                            |                            |
+
+---
+
+### Curso 3: Introducción a IA para el diagnóstico y pronóstico médico
+
+| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Monitoreo fisiológico: Electrocardiograma (ECG) |                            |                            |
+| Datos epidemiológicos: Análisis de supervivencia |                            |                            |
+| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
+| Datos demográficos: Procesamiento y análisis     |                            |                            |
+
+---
+
+### Curso 4: Deep Learning y aplicaciones reales de IA en medicina
+
+| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Monitoreo fisiológico: Electrocardiograma (ECG) |                            |                            |
+| Datos epidemiológicos: Análisis de supervivencia |                            |                            |
+| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
+| Datos demográficos: Procesamiento y análisis     |                            |                            |
 
 
 # Cursos
