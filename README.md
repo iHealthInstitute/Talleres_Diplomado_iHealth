@@ -7,8 +7,7 @@ Este repositorio contiene el material para ser utilizado en el diplomado en [Int
 # Objetivo
 Introducir a los estudiantes a los conceptos básicos de la inteligencia artificial y su aplicación en el diagnóstico médico. Se entregarán ejemplos en formato de Jupyter Notebooks (Google Colab) en el lenguaje de programación Python que permitirán a los estudiantes entender los conceptos y aplicarlos en problemas reales.
 
-# Público Objetivo
-El diplomado está dirigido a profesionales de la salud, ingenieros, matemáticos, físicos, químicos, biólogos y otros profesionales que deseen adquirir conocimientos en inteligencia artificial aplicada al diagnóstico médico. No se requiere experiencia previa en programación, pero se recomienda tener conocimientos básicos de matemáticas y estadística.
+
 
 # Formato General del Diplomado
 
@@ -38,16 +37,6 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 | **Imágenes médicas: Rayos X y reportes radiológicos** |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/curso_1/Imagenes_solution.ipynb)                                                               |                                                                |                                                               |                                                         |
 | **Datos demográficos: Procesamiento y análisis**     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/curso_1/Demografico_solution.ipynb)                                                               |                                                               |                                                                |                                                          |
 
-
-# Bases de datos
-Las bases de datos para cada tema son las siguientes:
-
-| **Tema**                                      | **Base de datos** |
-|-----------------------------------------------|-------------------|
-| **Monitoreo fisiológico: Electrocardiograma (ECG)** | https://physionet.org/content/mitdb/1.0.0/ |
-| **Datos epidemiológicos: Análisis de supervivencia** | https://www.kaggle.com/datasets/tanshihjen/aids-clinical-trials|
-| **Imágenes médicas: Rayos X y reportes radiológicos** | https://www.kaggle.com/datasets/ilknuricke/neurohackinginrimages  https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university |
-| **Datos demográficos: Procesamiento y análisis**     | https://repositoriodeis.minsal.cl/DatosAbiertos/EGRESOS/EGRESOS_2020.zip |
 
 
 
