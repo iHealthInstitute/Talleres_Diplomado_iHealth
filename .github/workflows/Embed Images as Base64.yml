@@ -1,0 +1,91 @@
+# .github/workflows/embed-images.yml
+
+name: Clean Notebooks
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  embed-images:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          # Needed to push changes back to the repository
+          persist-credentials: false
+          fetch-depth: 0}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'  # Specify desired Python version
+
+      - name: Install nbstripout
+        run: |
+          python -m pip install --upgrade pip
+          pip install nbstripout
+
+      - name: Strip output from Jupyter notebooks
+        run: |
+          find . -name "*.ipynb" -print0 | grep -vz "solution.ipynb$" | xargs -0 nbstripout --drop-empty-cells
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # No external dependencies needed since the script uses standard library
+
+      - name: Find and Process Notebooks
+        run: |
+          # Make the script executable
+          chmod +x .github/scripts/embed_images.py
+
+          # Find all .ipynb files
+          find . -name "*.ipynb" > notebooks.txt
+
+          # Check if any notebooks are found
+          if [ ! -s notebooks.txt ]; then
+            echo "No Jupyter Notebooks found."
+            exit 0
+          fi
+
+          # Iterate over each notebook and process it
+          while IFS= read -r notebook; do
+            echo "Processing $notebook..."
+            python .github/scripts/embed_images.py "$notebook"
+            python .github/scripts/solution2file.py "$notebook"
+          done < notebooks.txt
+          # remove *.bak files
+          find . -name "*.bak" -delete
+      
+      - name: Strip output from Jupyter notebooks
+        run: |
+          find . -name "*.ipynb" -print0 | grep -vz "solution.ipynb$" | xargs -0 nbstripout --drop-empty-cells
+
+      - name: Commit Changes
+        run: |
+          # Configure Git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Check for changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Clean Jupyter Notebooks [skip ci]"
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          # Prevent the action from being triggered by its own commits
+          force: false
+          # Optional: Add a condition to prevent infinite loops
+          # e.g., if commit message contains [skip ci], don't trigger
