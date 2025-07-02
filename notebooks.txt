@@ -1,0 +1,8 @@
+./curso_1/Epidemiologicos.ipynb
+./curso_1/Imagenes.ipynb
+./curso_1/Demografico.ipynb
+./curso_1/Monitoreo_solution.ipynb
+./curso_1/Epidemiologicos_solution.ipynb
+./curso_1/Monitoreo.ipynb
+./curso_1/Imagenes_solution.ipynb
+./curso_1/Demografico_solution.ipynb
