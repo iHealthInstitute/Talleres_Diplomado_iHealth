@@ -1,5 +1,5 @@
 name: Colab Badge
-on: [pull]
+on: [push]
 
 jobs:
   badges:
