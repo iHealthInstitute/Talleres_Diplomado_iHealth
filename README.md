@@ -20,12 +20,7 @@ El diplomado está compuesto por **4 cursos**, organizados de la siguiente maner
 3. **Introducción a IA para el diagnóstico y pronóstico médico**  
 4. **Deep Learning y aplicaciones reales de IA en medicina**
 
-#### **Temas principales**
-En cada curso se abordarán los siguientes temas:  
-1. **Monitoreo fisiológico**: Electrocardiograma (ECG).  
-2. **Datos epidemiológicos**: Análisis de supervivencia.  
-3. **Imágenes médicas**: Rayos X de tórax y reportes radiológicos.  
-4. **Datos demográficos**: Procesamiento y análisis.
+
 
 #### **Metodología**
 Cada curso incluirá ejemplos prácticos basados en los temas descritos anteriormente. Además, se proporcionarán ejercicios para que los estudiantes apliquen los conceptos aprendidos de manera práctica. Adicionalmente, se incluye un curso introductorio a Python para aquellos estudiantes que no tengan experiencia previa en programación.
@@ -34,7 +29,7 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 
 # Tabla de ejercicios
-Links a los ejercicios de cada curso. El temá a abordar en cada uno se encuentra [aqui](https://drive.google.com/drive/folders/1nQQgXPLFDVVwN4oHv3zQTZEzDXJHhXTJ?usp=drive_link)
+
 
 | **Tema**                                      | **Curso 1: Fundamentos computacionales para IA en medicina** | **Curso 2: Análisis exploratorio y visualización de datos en medicina** | **Curso 3: Introducción a IA para el diagnóstico y pronóstico médico** | **Curso 4: Deep Learning y aplicaciones reales de IA en medicina** |
 |-----------------------------------------------|----------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------|
@@ -56,9 +51,6 @@ Las bases de datos para cada tema son las siguientes:
 
 
 
-
-# Recursos:
-https://scikit-survival.readthedocs.io/en/stable/user_guide/00-introduction.html
 
 # Cursos
 
