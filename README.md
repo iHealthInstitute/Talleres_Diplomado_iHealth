@@ -36,10 +36,10 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 | **Tema**                                      | **Archivo** | **Solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Monitoreo fisiológico: Electrocardiograma (ECG) |  {{{badge curso_1/Monitoreo.ipynb}}} |      {{badge curso_1/Monitoreo_solution.ipynb}}                  
-| Datos epidemiológicos: Análisis de supervivencia |       {{badge curso_1/Epidemiologicos.ipynb}}               | {{badge curso_1/Epidemiologicos_solution.ipynb}}   
-| Imágenes médicas: Rayos X y reportes radiológicos |       {{badge curso_1/Imagenes.ipynb}}              | {{badge curso_1/Imagenes_solution.ipynb}}
-| Datos demográficos: Procesamiento y análisis     |   {{badge curso_1/Demografico.ipynb}}   | {{badge curso_1/Demografico_solution.ipynb}}
+| Monitoreo fisiológico: Electrocardiograma (ECG) |  {[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_1/Monitoreo.ipynb)} |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_1/Monitoreo_solution.ipynb)                  
+| Datos epidemiológicos: Análisis de supervivencia |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_1/Epidemiologicos.ipynb)               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_1/Epidemiologicos_solution.ipynb)   
+| Imágenes médicas: Rayos X y reportes radiológicos |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_1/Imagenes.ipynb)              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_1/Imagenes_solution.ipynb)
+| Datos demográficos: Procesamiento y análisis     |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_1/Demografico.ipynb)   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_1/Demografico_solution.ipynb)
 
 ---
 
