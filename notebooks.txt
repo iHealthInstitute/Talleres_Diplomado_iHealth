@@ -1,3 +1,4 @@
+./curso_2/analisis_exploratorio.ipynb
 ./curso_1/Epidemiologicos.ipynb
 ./curso_1/Imagenes.ipynb
 ./curso_1/Demografico.ipynb
