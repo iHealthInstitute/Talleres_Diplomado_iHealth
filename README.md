@@ -45,7 +45,7 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 ### Curso 2: Análisis exploratorio y visualización de datos en medicina
 
-| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+| **Tema**                                      | **Archivo** | **Solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
 | Análisis Estadístico y Modelado Predictivo  |         [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_2/analisis_exploratorio.ipynb)                   |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_2/analisis_exploratorio_solution.ipynb)                     |
 | Datos epidemiológicos: Análisis de supervivencia |                            |                            |
