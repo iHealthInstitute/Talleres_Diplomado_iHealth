@@ -54,6 +54,7 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 ---
 
+
 ### Curso 3: Introducción a IA para el diagnóstico y pronóstico médico
 
 | **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
