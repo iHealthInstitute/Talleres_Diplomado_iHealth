@@ -62,7 +62,7 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 | **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Monitoreo fisiológico: Electrocardiograma (ECG) |                            |                            |
+| Introducción a Machine Learning |   {{badge curso_3/intro_ml_solution.ipynb }}                           |       {{badge curso_3/intro_ml.ipynb }}                     |
 | Datos epidemiológicos: Análisis de supervivencia |                            |                            |
 | Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
 | Datos demográficos: Procesamiento y análisis     |                            |                            |
