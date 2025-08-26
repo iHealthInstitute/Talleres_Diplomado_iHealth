@@ -62,7 +62,7 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 | **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Introducción a Machine Learning |   {{badge curso_3/intro_ml_solution.ipynb }}                           |       {{badge curso_3/intro_ml.ipynb }}                     |
+| Introducción a Machine Learning |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/intro_ml_solution.ipynb)                           |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/intro_ml.ipynb)                     |
 | Datos epidemiológicos: Análisis de supervivencia |                            |                            |
 | Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
 | Datos demográficos: Procesamiento y análisis     |                            |                            |
