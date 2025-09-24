@@ -68,6 +68,7 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 | Datos demográficos: Procesamiento y análisis     |                            |                            |
 
 
+
 ---
 
 ### Curso 4: Deep Learning y aplicaciones reales de IA en medicina
