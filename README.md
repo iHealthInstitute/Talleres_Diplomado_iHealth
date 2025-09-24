@@ -60,11 +60,11 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 ### Curso 3: Introducción a IA para el diagnóstico y pronóstico médico
 
-| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+| **Tema**                                      | **Archivo** | **Solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Introducción a Machine Learning |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/intro_ml_solution.ipynb)                           |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/intro_ml.ipynb)                     |
-| Árboles de decisión |        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/arboles_ml_solution.ipynb)                    |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/arboles_ml.ipynb)                         |
-| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
+| Introducción a Machine Learning |        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/intro_ml.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/intro_ml_solution.ipynb)                           |  
+| Árboles de decisión |          [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/arboles_ml.ipynb)                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_3/arboles_ml_solution.ipynb)                    |  
+| K-means y PCA |                {{badge curso_3/kmeans_pca.ipynb}}            |           {{badge curso_3/kmeans_pca_solution.ipynb}}                   |
 | Datos demográficos: Procesamiento y análisis     |                            |                            |
 
 
@@ -72,7 +72,7 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 ### Curso 4: Deep Learning y aplicaciones reales de IA en medicina
 
-| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+| **Tema**                                      | **Archivo** | **Solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
 | Monitoreo fisiológico: Electrocardiograma (ECG) |                            |                            |
 | Datos epidemiológicos: Análisis de supervivencia |                            |                            |
