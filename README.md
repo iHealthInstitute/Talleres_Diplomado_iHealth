@@ -75,8 +75,8 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 | **Tema**                                      | **Archivo** | **Solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
-|  MedMNIST parte 1: Perceptron |        {{badge curso_4/medmnist_dl_parte1.ipynb}}                    |    {{badge curso_4/medmnist_dl_parte1_solution.ipynb}}                        |
-|  MedMNIST parte 2: CNN |        {{badge curso_4/medmnist_dl_parte2.ipynb}}                    |    {{badge curso_4/medmnist_dl_parte2_solution.ipynb}}                        |
+|  MedMNIST parte 1: Perceptron |        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_4/medmnist_dl_parte1.ipynb)                    |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_4/medmnist_dl_parte1_solution.ipynb)                        |
+|  MedMNIST parte 2: CNN |        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_4/medmnist_dl_parte2.ipynb)                    |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_4/medmnist_dl_parte2_solution.ipynb)                        |
 
 
 # Cursos
