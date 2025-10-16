@@ -75,12 +75,8 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 | **Tema**                                      | **Archivo** | **Solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Monitoreo fisiológico: Electrocardiograma (ECG) |                            |                            |
-| Datos epidemiológicos: Análisis de supervivencia |                            |                            |
-| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
-| Datos demográficos: Procesamiento y análisis     |                            |                            |
-
-
+|  MedMNIST parte 1: Perceptron |        {{badge curso_4/medmnist_dl_parte1.ipynb}}                    |    {{badge curso_4/medmnist_dl_parte1_solution.ipynb}}                        |
+|  MedMNIST parte 2: CNN |        {{badge curso_4/medmnist_dl_parte2.ipynb}}                    |    {{badge curso_4/medmnist_dl_parte2_solution.ipynb}}                        |
 
 
 # Cursos
