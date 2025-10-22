@@ -1,3 +1,6 @@
+*.gdf
+*.zip
+*.zip.*
 ~$figuras.pptx
 *.atr
 *.dat
